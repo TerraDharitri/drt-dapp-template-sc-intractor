@@ -1,0 +1,1 @@
+# drt-dapp-template-sc-intractor
